@@ -22,6 +22,7 @@ MountainCar-v0 and Acrobot-v1.
 
 
 
+![mountain_car](mountain_car.gif)
 ![acrobot](acrobot.gif)
 ![Average Reward versus Episode with Q-Learning](q_learning_acrobot.jpg)
 ![Agerage Reward versus Episode with Reinforce](REINFORCE_acrobot.png)
